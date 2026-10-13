@@ -32,3 +32,15 @@ h2 {
 img {
     border-radius: 10px;
 }
+
+#refs .csl-entry {
+    padding-left: 1.5em;
+    text-indent: -1.5em;
+    margin-bottom: 0.8em;
+    max-width: 100%; 
+}
+
+#refs .csl-entry::before {
+    content: "• ";
+}
+

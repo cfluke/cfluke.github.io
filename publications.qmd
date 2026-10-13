@@ -1,11 +1,8 @@
 ---
-title: "Christopher Fluke's Place On The Web"
+title: Publications
 bibliography: publications.bib
+nocite: |
+  @*
 ---
 
-# Publications 
-
-@fluke2026
-
-::: {#refs}
-:::
+# Publications
