@@ -7,6 +7,8 @@ title: "Christopher Fluke's Place On The Web"
 Professor of Astronomy  
 Swinburne University of Technology
 
+Website update
+
 ## Research Interests
 
 - Astronomy visualisation
@@ -14,4 +16,3 @@ Swinburne University of Technology
 - Human-AI collaboration
 - Embodied AI for scientific discovery
 
-Welcome to my personal website.
