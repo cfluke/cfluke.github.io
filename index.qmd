@@ -1,0 +1,17 @@
+---
+title: "Christopher Fluke's Place On The Web"
+---
+
+![](images/cfluke_headshot.png){width=100px}
+
+Professor of Astronomy  
+Swinburne University of Technology
+
+## Research Interests
+
+- Astronomy visualisation
+- Visual analytics
+- Human-AI collaboration
+- Embodied AI for scientific discovery
+
+Welcome to my personal website.
