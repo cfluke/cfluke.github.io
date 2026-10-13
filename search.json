@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Christopher Fluke’s Place On The Web",
+    "section": "",
+    "text": "Professor of Astronomy\nSwinburne University of Technology"
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Christopher Fluke’s Place On The Web",
+    "section": "Research Interests",
+    "text": "Research Interests\n\nAstronomy visualisation\nVisual analytics\nHuman-AI collaboration\nEmbodied AI for scientific discovery\n\nWelcome to my personal website."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Christopher Fluke’s Place On The Web",
+    "section": "",
+    "text": "Research Interests\n\nAstronomy visualisation\nVisual analytics\nHuman-AI collaboration\nEmbodied AI for scientific discovery"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Christopher Fluke’s Place On The Web",
+    "section": "",
+    "text": "Publications\nFluke (2026)\n\n\nFluke, Christopher J. 2026. “Listen, Show, and Tell.” Journal Placeholder."
+  }
+]
