@@ -1,8 +1,8 @@
 ---
-title: "Christopher Fluke's Place On The Web"
+title: "Research"
 ---
 
-Research Interests
+**Interests**
 
 - Astronomy visualisation
 - Visual analytics

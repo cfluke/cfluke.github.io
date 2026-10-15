@@ -1,0 +1,17 @@
+---
+title: "Teaching"
+---
+
+**Semester 1**
+
+- <a target=_new href="https://www.swinburne.edu.au/course/unit/c/cos10009/">COS10009 Introduction to Programming</a>
+
+**Semester 2**
+
+- <a target=_new href="https://www.swinburne.edu.au/course/unit/a/aer20002/">AER20002 Space Environment, Data, Visualisationa and Applications</a>
+- <a target=_new href="https://www.swinburne.edu.au/course/unit/n/nps20011/">NPS20011 Societal Challenges in Science</a>
+- <a target=_new href="https://www.swinburne.edu.au/course/unit/c/cos10009/">COS10009 Introduction to Programming</a>
+
+**Resources**
+
+- <a href="https://swinburne.instructure.com">Canvas</a>

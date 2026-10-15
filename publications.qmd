@@ -2,13 +2,15 @@
 title: Publications
 ---
 
+**Note**: Not yet validated
+
 
 
 ## 2026
 
 
 1. **LStein: A new approach to visualizing sparse 2.5-dimensional data**  
-   Steinwender, L., M\"oller, A., **Fluke, C. J.**     *Astronomy and Computing*     57     101161     [ADS](https://ui.adsabs.harvard.edu/abs/2026A&C....5701161S) | [DOI](https://doi.org/10.1016/j.ascom.2026.101161)  
+   Steinwender, L., M\"oller, A., **Fluke, C. J.**     *Astronomy and Computing*     57,    101161     [ADS](https://ui.adsabs.harvard.edu/abs/2026A&C....5701161S) | [DOI](https://doi.org/10.1016/j.ascom.2026.101161)  
 2. **Pose-Anchored Optical Flow for Low-Latency Human Action Anticipation in Human-Robot Teaming**  
    de Zoete Grundy, L., McCarthy, C., **Fluke, C.**     *arXiv e-prints*     arXiv:2608.25495     [ADS](https://ui.adsabs.harvard.edu/abs/2026arXiv260825495D) | [DOI](https://doi.org/10.48550/arXiv.2608.25495)  
 
@@ -16,13 +18,13 @@ title: Publications
 
 
 3. **A machine-learning empowered search for sub-minute optical transient events with the Deeper, Wider, Faster programme**  
-   Goode, S. R., Webb, S. A., Cooke, J., Zhang, J., Freeburn, J., Lien, A., Shamohammadi, M., Rosenthal, A., Driessen, L. N., **Fluke, C.**, Mahabal, A., M\"oller, A., Dobie, D., Batten, A., Van Bemmel, N.     *Monthly Notices of the Royal Astronomical Society*     543     4     3915-3928     [ADS](https://ui.adsabs.harvard.edu/abs/2025MNRAS.543.3915G) | [DOI](https://doi.org/10.1093/mnras/staf1561)  
+   Goode, S. R., Webb, S. A., Cooke, J., Zhang, J., Freeburn, J., Lien, A., Shamohammadi, M., Rosenthal, A., Driessen, L. N., **Fluke, C.**, Mahabal, A., M\"oller, A., Dobie, D., Batten, A., Van Bemmel, N.     *Monthly Notices of the Royal Astronomical Society*     543,    4,    3915-3928     [ADS](https://ui.adsabs.harvard.edu/abs/2025MNRAS.543.3915G) | [DOI](https://doi.org/10.1093/mnras/staf1561)  
 4. **Machine Learning in Astronomy: Possibilities and Pitfalls**  
-   *IAU Symposium*     19     [ADS](https://ui.adsabs.harvard.edu/abs/2025IAUS..368.....M) | [DOI](https://doi.org/10.1017/S1743921324002138)  
+   *IAU Symposium*     19,    [ADS](https://ui.adsabs.harvard.edu/abs/2025IAUS..368.....M) | [DOI](https://doi.org/10.1017/S1743921324002138)  
 5. **A Lightweight Large Vision-language Model for Multimodal Medical Images**  
    Alsinglawi, B., McCarthy, C., Webb, S., **Fluke, C.**, Toosy Saidy, N.     *arXiv e-prints*     arXiv:2504.05575     [ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv250405575A) | [DOI](https://doi.org/10.48550/arXiv.2504.05575)  
 6. **Virtual realities: Is there only one advanced image display that astronomers need?**  
-   **Fluke, C.**, Walsh, H., de Zoete Grundy, L., Brady, B.     *Astronomy and Computing*     50     100896     [ADS](https://ui.adsabs.harvard.edu/abs/2025A&C....5000896F) | [DOI](https://doi.org/10.1016/j.ascom.2024.100896)  
+   **Fluke, C.**, Walsh, H., de Zoete Grundy, L., Brady, B.     *Astronomy and Computing*     50,    100896     [ADS](https://ui.adsabs.harvard.edu/abs/2025A&C....5000896F) | [DOI](https://doi.org/10.1016/j.ascom.2024.100896)  
 
 ## 2024
 
@@ -38,71 +40,71 @@ title: Publications
 
 
 10. **Survey-scale discovery-based research processes: Evaluating a bespoke visualisation environment for astronomical survey data**  
-   **Fluke, C.**, Vohl, D., Kilborn, V., Murugeshan, C.     *Publications of the Astronomical Society of Australia*     40     e035     [ADS](https://ui.adsabs.harvard.edu/abs/2023PASA...40...35F) | [DOI](https://doi.org/10.1017/pasa.2023.37)  
+   **Fluke, C.**, Vohl, D., Kilborn, V., Murugeshan, C.     *Publications of the Astronomical Society of Australia*     40,    e035     [ADS](https://ui.adsabs.harvard.edu/abs/2023PASA...40...35F) | [DOI](https://doi.org/10.1017/pasa.2023.37)  
 
 ## 2021
 
 
 11. **Shape noise and dispersion in precision weak lensing**  
-   Gurri, P., Taylor, E. N., **Fluke, C. J.**     *Monthly Notices of the Royal Astronomical Society*     502     4     5612-5621     [ADS](https://ui.adsabs.harvard.edu/abs/2021MNRAS.502.5612G) | [DOI](https://doi.org/10.1093/mnras/stab423)  
+   Gurri, P., Taylor, E. N., **Fluke, C. J.**     *Monthly Notices of the Royal Astronomical Society*     502,    4,    5612-5621     [ADS](https://ui.adsabs.harvard.edu/abs/2021MNRAS.502.5612G) | [DOI](https://doi.org/10.1093/mnras/stab423)  
 
 ## 2020
 
 
 12. **The first shear measurements from precision weak lensing**  
-   Gurri, P., Taylor, E. N., **Fluke, C. J.**     *Monthly Notices of the Royal Astronomical Society*     499     4     4591-4604     [ADS](https://ui.adsabs.harvard.edu/abs/2020MNRAS.499.4591G) | [DOI](https://doi.org/10.1093/mnras/staa2893)  
+   Gurri, P., Taylor, E. N., **Fluke, C. J.**     *Monthly Notices of the Royal Astronomical Society*     499,    4,    4591-4604     [ADS](https://ui.adsabs.harvard.edu/abs/2020MNRAS.499.4591G) | [DOI](https://doi.org/10.1093/mnras/staa2893)  
 13. **Understanding the human in the design of cyber-human discovery systems for data-driven astronomy**  
-   **Fluke, C.**, Hegarty, S., MacMahon, C.     *Astronomy and Computing*     33     100423     [ADS](https://ui.adsabs.harvard.edu/abs/2020A&C....3300423F) | [DOI](https://doi.org/10.1016/j.ascom.2020.100423)  
+   **Fluke, C.**, Hegarty, S., MacMahon, C.     *Astronomy and Computing*     33,    100423     [ADS](https://ui.adsabs.harvard.edu/abs/2020A&C....3300423F) | [DOI](https://doi.org/10.1016/j.ascom.2020.100423)  
 14. **The influence of angular momentum and environment on the H I gas of late-type galaxies**  
-   Murugeshan, C., Kilborn, V., Jarrett, T., Wong, O. I., Obreschkow, D., Glazebrook, K., Cluver, M. E., **Fluke, C. J.**     *Monthly Notices of the Royal Astronomical Society*     496     2     2516-2529     [ADS](https://ui.adsabs.harvard.edu/abs/2020MNRAS.496.2516M) | [DOI](https://doi.org/10.1093/mnras/staa1731)  
+   Murugeshan, C., Kilborn, V., Jarrett, T., Wong, O. I., Obreschkow, D., Glazebrook, K., Cluver, M. E., **Fluke, C. J.**     *Monthly Notices of the Royal Astronomical Society*     496,    2,    2516-2529     [ADS](https://ui.adsabs.harvard.edu/abs/2020MNRAS.496.2516M) | [DOI](https://doi.org/10.1093/mnras/staa1731)  
 15. **WALLABY ─ an SKA Pathfinder H I survey**  
-   Koribalski, B. S., Staveley-Smith, L., Westmeier, T., Serra, P., Spekkens, K., Wong, O., Lee-Waddell, K., Lagos, C., Obreschkow, D., Ryan-Weber, E., Zwaan, M., Kilborn, V., Bekiaris, G., Bekki, K., Bigiel, F., Boselli, A., Bosma, A., Catinella, B., Chauhan, G., Cluver, M., Colless, M., Courtois, H., Crain, R., de Blok, W., D\'enes, H., Duffy, A., Elagali, A., **Fluke, C.**, For, B., Heald, G., Henning, P., Hess, K., Holwerda, B., Howlett, C., Jarrett, T., Jones, D., Jones, M., J\'ozsa, G., Jurek, R., J\"utte, E., Kamphuis, P., Karachentsev, I., Kerp, J., Kleiner, D., Kraan-Korteweg, R., L\'opez-S\'anchez, \. R., Madrid, J., Meyer, M., Mould, J., Murugeshan, C., Norris, R., Oh, S., Oosterloo, T., Popping, A., Putman, M., Reynolds, T., Rhee, J., Robotham, A., Ryder, S., Schr\"oder, A., Shao, L., Stevens, A., Taylor, E., van\^A der Hulst, J., Verdes-Montenegro, L., Wakker, B., Wang, J., Whiting, M., Winkel, B., Wolf, C.     *\apss*     365     7     118     [ADS](https://ui.adsabs.harvard.edu/abs/2020Ap&SS.365..118K) | [DOI](https://doi.org/10.1007/s10509-020-03831-4)  
+   Koribalski, B. S., Staveley-Smith, L., Westmeier, T., Serra, P., Spekkens, K., Wong, O., Lee-Waddell, K., Lagos, C., Obreschkow, D., Ryan-Weber, E., Zwaan, M., Kilborn, V., Bekiaris, G., Bekki, K., Bigiel, F., Boselli, A., Bosma, A., Catinella, B., Chauhan, G., Cluver, M., Colless, M., Courtois, H., Crain, R., de Blok, W., D\'enes, H., Duffy, A., Elagali, A., **Fluke, C.**, For, B., Heald, G., Henning, P., Hess, K., Holwerda, B., Howlett, C., Jarrett, T., Jones, D., Jones, M., J\'ozsa, G., Jurek, R., J\"utte, E., Kamphuis, P., Karachentsev, I., Kerp, J., Kleiner, D., Kraan-Korteweg, R., L\'opez-S\'anchez, \. R., Madrid, J., Meyer, M., Mould, J., Murugeshan, C., Norris, R., Oh, S., Oosterloo, T., Popping, A., Putman, M., Reynolds, T., Rhee, J., Robotham, A., Ryder, S., Schr\"oder, A., Shao, L., Stevens, A., Taylor, E., van\^A der Hulst, J., Verdes-Montenegro, L., Wakker, B., Wang, J., Whiting, M., Winkel, B., Wolf, C.     *\apss*     365,    7,    118     [ADS](https://ui.adsabs.harvard.edu/abs/2020Ap&SS.365..118K) | [DOI](https://doi.org/10.1007/s10509-020-03831-4)  
 16. **Surveying the reach and maturity of machine learning and artificial intelligence in astronomy**  
-   **Fluke, C. J.**, Jacobs, C.     *WIREs Data Mining and Knowledge Discovery*     10     2     e1349     [ADS](https://ui.adsabs.harvard.edu/abs/2020WDMKD..10.1349F) | [DOI](https://doi.org/10.1002/widm.1349)  
+   **Fluke, C. J.**, Jacobs, C.     *WIREs Data Mining and Knowledge Discovery*     10,    2,    e1349     [ADS](https://ui.adsabs.harvard.edu/abs/2020WDMKD..10.1349F) | [DOI](https://doi.org/10.1002/widm.1349)  
 
 ## 2019
 
 
 17. **Accelerated Distributed Visualisation in The Theoretical Astrophysical Observatory (TAO)**  
-   Ayling, E., Hassan, A., Dykes, T., **Fluke, C.**, Gheller, C., Krokos, M.     *Astronomical Data Analysis Software and Systems XXVI*     521     600     [ADS](https://ui.adsabs.harvard.edu/abs/2019ASPC..521..600A)  
+   Ayling, E., Hassan, A., Dykes, T., **Fluke, C.**, Gheller, C., Krokos, M.     *Astronomical Data Analysis Software and Systems XXVI*     521,    600     [ADS](https://ui.adsabs.harvard.edu/abs/2019ASPC..521..600A)  
 18. **Collaborative Visual Analytics of Large Radio Surveys**  
-   Vohl, D., **Fluke, C. J.**, Hassan, A. H., Barnes, D. G., Kilborn, V. A.     *Astronomical Data Analysis Software and Systems XXVI*     521     264     [ADS](https://ui.adsabs.harvard.edu/abs/2019ASPC..521..264V)  
+   Vohl, D., **Fluke, C. J.**, Hassan, A. H., Barnes, D. G., Kilborn, V. A.     *Astronomical Data Analysis Software and Systems XXVI*     521,    264     [ADS](https://ui.adsabs.harvard.edu/abs/2019ASPC..521..264V)  
 19. **Optimised Workspaces Enhance Time-critical Astronomy**  
-   Meade, B., **Fluke, C.**, Cooke, J., Andreoni, I., Pritchard, T.     *Astronomical Data Analysis Software and Systems XXVI*     521     143     [ADS](https://ui.adsabs.harvard.edu/abs/2019ASPC..521..143M)  
+   Meade, B., **Fluke, C.**, Cooke, J., Andreoni, I., Pritchard, T.     *Astronomical Data Analysis Software and Systems XXVI*     521,    143     [ADS](https://ui.adsabs.harvard.edu/abs/2019ASPC..521..143M)  
 20. **Non-invasive in vivo hyperspectral imaging of the retina for potential biomarker use in Alzheimer's disease**  
-   Hadoux, X., Hui, F., Lim, J. K., Masters, C. L., P\'ebay, A., Chevalier, S., Ha, J., Loi, S., Fowler, C. J., Rowe, C., Villemagne, V. L., Taylor, E. N., **Fluke, C.**, Soucy, J., Lesage, F., Sylvestre, J., Rosa-Neto, P., Mathotaarachchi, S., Gauthier, S., Nasreddine, Z. S., Arbour, J. D., Rh\'eaume, M., Beaulieu, S., Dirani, M., Nguyen, C. T., Bui, B. V., Williamson, R., Crowston, J. G., van Wijngaarden, P.     *Nature Communications*     10     4227     [ADS](https://ui.adsabs.harvard.edu/abs/2019NatCo..10.4227H) | [DOI](https://doi.org/10.1038/s41467-019-12242-1)  
+   Hadoux, X., Hui, F., Lim, J. K., Masters, C. L., P\'ebay, A., Chevalier, S., Ha, J., Loi, S., Fowler, C. J., Rowe, C., Villemagne, V. L., Taylor, E. N., **Fluke, C.**, Soucy, J., Lesage, F., Sylvestre, J., Rosa-Neto, P., Mathotaarachchi, S., Gauthier, S., Nasreddine, Z. S., Arbour, J. D., Rh\'eaume, M., Beaulieu, S., Dirani, M., Nguyen, C. T., Bui, B. V., Williamson, R., Crowston, J. G., van Wijngaarden, P.     *Nature Communications*     10,    4227     [ADS](https://ui.adsabs.harvard.edu/abs/2019NatCo..10.4227H) | [DOI](https://doi.org/10.1038/s41467-019-12242-1)  
 
 ## 2018
 
 
 21. **Immersive Virtual Reality Experiences for All-Sky Data**  
-   **Fluke, C.**, Barnes, D.     *Publications of the Astronomical Society of Australia*     35     e026     [ADS](https://ui.adsabs.harvard.edu/abs/2018PASA...35...26F) | [DOI](https://doi.org/10.1017/pasa.2018.19)  
+   **Fluke, C.**, Barnes, D.     *Publications of the Astronomical Society of Australia*     35,    e026     [ADS](https://ui.adsabs.harvard.edu/abs/2018PASA...35...26F) | [DOI](https://doi.org/10.1017/pasa.2018.19)  
 22. **Evaluating virtual hosted desktops for graphics-intensive astronomy**  
-   Meade, B., **Fluke, C.**     *Astronomy and Computing*     23     124     [ADS](https://ui.adsabs.harvard.edu/abs/2018A&C....23..124M) | [DOI](https://doi.org/10.1016/j.ascom.2018.04.002)  
+   Meade, B., **Fluke, C.**     *Astronomy and Computing*     23,    124     [ADS](https://ui.adsabs.harvard.edu/abs/2018A&C....23..124M) | [DOI](https://doi.org/10.1016/j.ascom.2018.04.002)  
 
 ## 2017
 
 
 23. **An Interactive, Comparative and Quantitative 3D Visualization System for Large-Scale Spectral-Cube Surveys Using CAVE2**  
-   Vohl, D., **Fluke, C.**, Hassan, A., Barnes, D.     *Astronomical Data Analysis Software and Systems XXV*     512     507     [ADS](https://ui.adsabs.harvard.edu/abs/2017ASPC..512..507V) | [DOI](https://doi.org/10.48550/arXiv.1610.00806)  
+   Vohl, D., **Fluke, C.**, Hassan, A., Barnes, D.     *Astronomical Data Analysis Software and Systems XXV*     512,    507     [ADS](https://ui.adsabs.harvard.edu/abs/2017ASPC..512..507V) | [DOI](https://doi.org/10.48550/arXiv.1610.00806)  
 24. **The Ultimate Display**  
-   **Fluke, C.**, Barnes, D.     *Astronomical Data Analysis Software and Systems XXV*     512     473     [ADS](https://ui.adsabs.harvard.edu/abs/2017ASPC..512..473F) | [DOI](https://doi.org/10.48550/arXiv.1601.03459)  
+   **Fluke, C.**, Barnes, D.     *Astronomical Data Analysis Software and Systems XXV*     512,    473     [ADS](https://ui.adsabs.harvard.edu/abs/2017ASPC..512..473F) | [DOI](https://doi.org/10.48550/arXiv.1601.03459)  
 25. **Realistic Imaging of Simulated Universes with the Theoretical Astrophysical Observatory**  
-   Hegarty, S., Hassan, A., Croton, D., **Fluke, C.**     *Astronomical Data Analysis Software and Systems XXV*     512     341     [ADS](https://ui.adsabs.harvard.edu/abs/2017ASPC..512..341H)  
+   Hegarty, S., Hassan, A., Croton, D., **Fluke, C.**     *Astronomical Data Analysis Software and Systems XXV*     512,    341     [ADS](https://ui.adsabs.harvard.edu/abs/2017ASPC..512..341H)  
 26. **Real-time colouring and filtering with graphics shaders**  
-   Vohl, D., **Fluke, C.**, Barnes, D., Hassan, A.     *Monthly Notices of the Royal Astronomical Society*     471     3     3323-3346     [ADS](https://ui.adsabs.harvard.edu/abs/2017MNRAS.471.3323V) | [DOI](https://doi.org/10.1093/mnras/stx1676)  
+   Vohl, D., **Fluke, C.**, Barnes, D., Hassan, A.     *Monthly Notices of the Royal Astronomical Society*     471,    3,    3323-3346     [ADS](https://ui.adsabs.harvard.edu/abs/2017MNRAS.471.3323V) | [DOI](https://doi.org/10.1093/mnras/stx1676)  
 27. **Collaborative visual analytics of radio surveys in the Big Data era**  
-   Vohl, D., **Fluke, C. J.**, Hassan, A. H., Barnes, D. G., Kilborn, V. A.     *Astroinformatics*     325     311-315     [ADS](https://ui.adsabs.harvard.edu/abs/2017IAUS..325..311V) | [DOI](https://doi.org/10.1017/S1743921317001399)  
+   Vohl, D., **Fluke, C. J.**, Hassan, A. H., Barnes, D. G., Kilborn, V. A.     *Astroinformatics*     325,    311-315     [ADS](https://ui.adsabs.harvard.edu/abs/2017IAUS..325..311V) | [DOI](https://doi.org/10.1017/S1743921317001399)  
 28. **Sports Stars: Analyzing the Performance of Astronomers at Visualization-based Discovery**  
-   **Fluke, C.**, Parrington, L., Hegarty, S., MacMahon, C., Morgan, S., Hassan, A., Kilborn, V.     *\pasp*     129     975     058009     [ADS](https://ui.adsabs.harvard.edu/abs/2017PASP..129e8009F) | [DOI](https://doi.org/10.1088/1538-3873/aa5385)  
+   **Fluke, C.**, Parrington, L., Hegarty, S., MacMahon, C., Morgan, S., Hassan, A., Kilborn, V.     *\pasp*     129,    975,    058009     [ADS](https://ui.adsabs.harvard.edu/abs/2017PASP..129e8009F) | [DOI](https://doi.org/10.1088/1538-3873/aa5385)  
 29. **Collaborative Workspaces to Accelerate Discovery**  
-   Meade, B., **Fluke, C.**, Cooke, J., Andreoni, I., Pritchard, T., Curtin, C., Bernard, S. R., Asher, A., Mack, K. J., Murphy, M. T., Vohl, D., Codoreanu, A., Kotu\vs, S. M., Rumokoy, F., Horst, C., Reynolds, T.     *Publications of the Astronomical Society of Australia*     34     e023     [ADS](https://ui.adsabs.harvard.edu/abs/2017PASA...34...23M) | [DOI](https://doi.org/10.1017/pasa.2017.15)  
+   Meade, B., **Fluke, C.**, Cooke, J., Andreoni, I., Pritchard, T., Curtin, C., Bernard, S. R., Asher, A., Mack, K. J., Murphy, M. T., Vohl, D., Codoreanu, A., Kotu\vs, S. M., Rumokoy, F., Horst, C., Reynolds, T.     *Publications of the Astronomical Society of Australia*     34,    e023     [ADS](https://ui.adsabs.harvard.edu/abs/2017PASA...34...23M) | [DOI](https://doi.org/10.1017/pasa.2017.15)  
 30. **System Modernization and Reliability: A Transition to Underground**  
    **Fluke, C.**, Walton, R., De Merritt, S.     *2017 IEEE Rural Electric Power Conference (REPC)*     19     [ADS](https://ui.adsabs.harvard.edu/abs/2017repc.conf...19F) | [DOI](https://doi.org/10.1109/REPC.2017.23)  
 31. **Confirmation with the SALT telescope of a young Type Ia supernova at z=0.046 discovered during the ``Deeper Wider Faster'' program**  
-   Andreoni, I., Cooke, J., Pritchard, T., Kotze, M., Miszalski, B., Shara, M., Mestric, U., Tucker, B., Plant, K., Spiewak, R., Ryder, S., Abbott, T., Allen, R., Anderson, G., Asher, A., Baglio, M., Bannister, K., Bell, M., Bernard, S., Bhandari, S., Caleb, M., Campana, S., Coward, D., Curtin, C., D'Avanzo, P., Deller, A., Devlin, J., Farah, W., **Fluke, C.**, Flynn, C., Foran, G., Fugazza, D., Gawin, B., Hegarty, S., Hodgson, R., Hodgson, S., Horst, J., Howell, E., Hussaini, I., Jacobs, C., Ko, M., Lien, A., Meade, B., Melandri, A., Moller, A., Murphy, M., Nanayakkara, T., O'Neill, M., Oslowski, S., Peng, B., Petroff, E., Rest, A., Robert, F., Valdes, F., Vohl, D.     *The Astronomer's Telegram*     10078     1     [ADS](https://ui.adsabs.harvard.edu/abs/2017ATel10078....1A)  
+   Andreoni, I., Cooke, J., Pritchard, T., Kotze, M., Miszalski, B., Shara, M., Mestric, U., Tucker, B., Plant, K., Spiewak, R., Ryder, S., Abbott, T., Allen, R., Anderson, G., Asher, A., Baglio, M., Bannister, K., Bell, M., Bernard, S., Bhandari, S., Caleb, M., Campana, S., Coward, D., Curtin, C., D'Avanzo, P., Deller, A., Devlin, J., Farah, W., **Fluke, C.**, Flynn, C., Foran, G., Fugazza, D., Gawin, B., Hegarty, S., Hodgson, R., Hodgson, S., Horst, J., Howell, E., Hussaini, I., Jacobs, C., Ko, M., Lien, A., Meade, B., Melandri, A., Moller, A., Murphy, M., Nanayakkara, T., O'Neill, M., Oslowski, S., Peng, B., Petroff, E., Rest, A., Robert, F., Valdes, F., Vohl, D.     *The Astronomer's Telegram*     10078,    1     [ADS](https://ui.adsabs.harvard.edu/abs/2017ATel10078....1A)  
 32. **Discovery of 4 possible supernovae during the ``Deeper, Wider, Faster'' program observations**  
-   Andreoni, I., Cooke, J., Pritchard, T., Spiewak, R., Plant, K., Mestric, U., Ryder, S., Abbott, T., Allen, R., Anderson, G., Asher, A., Baglio, M., Bannister, K., Bell, M., Bernard, S., Bhandari, S., Caleb, M., Campana, S., Coward, D., Curtin, C., D'Avanzo, P., Devlin, J., Farah, W., **Fluke, C.**, Flynn, C., Foran, G., Fugazza, D., Gawin, B., Hegarty, S., Hodgson, R., Hodgson, S., Horst, J., Howell, E., Hussaini, I., Jacobs, C., Ko, M., Kotze, M., Lien, A., Meade, B., Melandri, A., Miszalski, B., Moller, A., Murphy, M., Nanayakkara, T., O'Neill, M., Oslowski, S., Peng, B., Petroff, E., Rest, A., Robert, F., Shara, M., Tucker, B., Valdes, F., Vohl, D.     *The Astronomer's Telegram*     10072     1     [ADS](https://ui.adsabs.harvard.edu/abs/2017ATel10072....1A)  
+   Andreoni, I., Cooke, J., Pritchard, T., Spiewak, R., Plant, K., Mestric, U., Ryder, S., Abbott, T., Allen, R., Anderson, G., Asher, A., Baglio, M., Bannister, K., Bell, M., Bernard, S., Bhandari, S., Caleb, M., Campana, S., Coward, D., Curtin, C., D'Avanzo, P., Devlin, J., Farah, W., **Fluke, C.**, Flynn, C., Foran, G., Fugazza, D., Gawin, B., Hegarty, S., Hodgson, R., Hodgson, S., Horst, J., Howell, E., Hussaini, I., Jacobs, C., Ko, M., Kotze, M., Lien, A., Meade, B., Melandri, A., Miszalski, B., Moller, A., Murphy, M., Nanayakkara, T., O'Neill, M., Oslowski, S., Peng, B., Petroff, E., Rest, A., Robert, F., Shara, M., Tucker, B., Valdes, F., Vohl, D.     *The Astronomer's Telegram*     10072,    1     [ADS](https://ui.adsabs.harvard.edu/abs/2017ATel10072....1A)  
 
 ## 2016
 
@@ -110,155 +112,155 @@ title: Publications
 33. **Large-scale comparative visualisation of sets of multidimensional data**  
    Vohl, D., Barnes, D. G., **Fluke, C. J.**, Poudel, G., Georgiou-Karistianis, N., Hassan, A. H., Benovitski, Y., Wong, T. H., Kaluza, O., Nguyen, T. D., Bonnington, C. P.     *arXiv e-prints*     arXiv:1610.00760     [ADS](https://ui.adsabs.harvard.edu/abs/2016arXiv161000760V) | [DOI](https://doi.org/10.48550/arXiv.1610.00760)  
 34. **Large-scale comparative visualisation of sets of multidimensional data**  
-   Vohl, D., Barnes, D. G., **Fluke, C. J.**, Poudel, G., Georgiou-Karistianis, N., Hassan, A. H., Benovitski, Y., Wong, T. H., Kaluza, O. L., Nguyen, T. D., Bonnington, C. P.     *PeerJ Computer Science*     2     88     [ADS](https://ui.adsabs.harvard.edu/abs/2016PJCS....2...88V) | [DOI](https://doi.org/10.7717/perrj-cs.88)  
+   Vohl, D., Barnes, D. G., **Fluke, C. J.**, Poudel, G., Georgiou-Karistianis, N., Hassan, A. H., Benovitski, Y., Wong, T. H., Kaluza, O. L., Nguyen, T. D., Bonnington, C. P.     *PeerJ Computer Science*     2,    88     [ADS](https://ui.adsabs.harvard.edu/abs/2016PJCS....2...88V) | [DOI](https://doi.org/10.7717/perrj-cs.88)  
 35. **Kinematic modelling of disc galaxies using graphics processing units**  
-   Bekiaris, G., Glazebrook, K., **Fluke, C.**, Abraham, R.     *Monthly Notices of the Royal Astronomical Society*     455     1     754-784     [ADS](https://ui.adsabs.harvard.edu/abs/2016MNRAS.455..754B) | [DOI](https://doi.org/10.1093/mnras/stv2292)  
+   Bekiaris, G., Glazebrook, K., **Fluke, C.**, Abraham, R.     *Monthly Notices of the Royal Astronomical Society*     455,    1,    754-784     [ADS](https://ui.adsabs.harvard.edu/abs/2016MNRAS.455..754B) | [DOI](https://doi.org/10.1093/mnras/stv2292)  
 
 ## 2015
 
 
 36. **Data compression in the petascale astronomy era: A GERLUMPH case study**  
-   Vohl, D., **Fluke, C.**, Vernardos, G.     *Astronomy and Computing*     12     200-211     [ADS](https://ui.adsabs.harvard.edu/abs/2015A&C....12..200V) | [DOI](https://doi.org/10.1016/j.ascom.2015.05.003)  
+   Vohl, D., **Fluke, C.**, Vernardos, G.     *Astronomy and Computing*     12,    200-211     [ADS](https://ui.adsabs.harvard.edu/abs/2015A&C....12..200V) | [DOI](https://doi.org/10.1016/j.ascom.2015.05.003)  
 37. **GERLUMPH Data Release 2: 2.5 Billion Simulated Microlensing Light Curves**  
-   Vernardos, G., **Fluke, C.**, Bate, N., Croton, D., Vohl, D.     *\apjs*     217     2     23     [ADS](https://ui.adsabs.harvard.edu/abs/2015ApJS..217...23V) | [DOI](https://doi.org/10.1088/0067-0049/217/2/23)  
+   Vernardos, G., **Fluke, C.**, Bate, N., Croton, D., Vohl, D.     *\apjs*     217,    2,    23     [ADS](https://ui.adsabs.harvard.edu/abs/2015ApJS..217...23V) | [DOI](https://doi.org/10.1088/0067-0049/217/2/23)  
 38. **Real-time Visualisation and Analysis of Tera-scale Datasets**  
-   **Fluke, C. J.**     *Highlights of Astronomy*     16     679-680     [ADS](https://ui.adsabs.harvard.edu/abs/2015HiA....16..679F) | [DOI](https://doi.org/10.1017/S1743921314012873)  
+   **Fluke, C. J.**     *Highlights of Astronomy*     16,    679-680     [ADS](https://ui.adsabs.harvard.edu/abs/2015HiA....16..679F) | [DOI](https://doi.org/10.1017/S1743921314012873)  
 
 ## 2014
 
 
 39. **The 6dF Galaxy Survey: peculiar velocity field and cosmography**  
-   Springob, C. M., Magoulas, C., Colless, M., Mould, J., Erdo\ugdu, P., Jones, D. H., Lucey, J. R., Campbell, L., **Fluke, C. J.**     *Monthly Notices of the Royal Astronomical Society*     445     3     2677-2697     [ADS](https://ui.adsabs.harvard.edu/abs/2014MNRAS.445.2677S) | [DOI](https://doi.org/10.1093/mnras/stu1743)  
+   Springob, C. M., Magoulas, C., Colless, M., Mould, J., Erdo\ugdu, P., Jones, D. H., Lucey, J. R., Campbell, L., **Fluke, C. J.**     *Monthly Notices of the Royal Astronomical Society*     445,    3,    2677-2697     [ADS](https://ui.adsabs.harvard.edu/abs/2014MNRAS.445.2677S) | [DOI](https://doi.org/10.1093/mnras/stu1743)  
 40. **The effect of macromodel uncertainties on microlensing modelling of lensed quasars**  
-   Vernardos, G., **Fluke, C.**     *Monthly Notices of the Royal Astronomical Society*     445     2     1223-1234     [ADS](https://ui.adsabs.harvard.edu/abs/2014MNRAS.445.1223V) | [DOI](https://doi.org/10.1093/mnras/stu1833)  
+   Vernardos, G., **Fluke, C.**     *Monthly Notices of the Royal Astronomical Society*     445,    2,    1223-1234     [ADS](https://ui.adsabs.harvard.edu/abs/2014MNRAS.445.1223V) | [DOI](https://doi.org/10.1093/mnras/stu1833)  
 41. **Adventures in the microlensing cloud: Large datasets, eResearch tools, and GPUs**  
-   Vernardos, G., **Fluke, C.**     *Astronomy and Computing*     6     1-18     [ADS](https://ui.adsabs.harvard.edu/abs/2014A&C.....6....1V) | [DOI](https://doi.org/10.1016/j.ascom.2014.05.002)  
+   Vernardos, G., **Fluke, C.**     *Astronomy and Computing*     6,    1-18     [ADS](https://ui.adsabs.harvard.edu/abs/2014A&C.....6....1V) | [DOI](https://doi.org/10.1016/j.ascom.2014.05.002)  
 42. **Are Tiled Display Walls Needed for Astronomy?**  
-   Meade, B. F., **Fluke, C. J.**, Manos, S., Sinnott, R. O.     *Publications of the Astronomical Society of Australia*     31     e033     [ADS](https://ui.adsabs.harvard.edu/abs/2014PASA...31...33M) | [DOI](https://doi.org/10.1017/pasa.2014.29)  
+   Meade, B. F., **Fluke, C. J.**, Manos, S., Sinnott, R. O.     *Publications of the Astronomical Society of Australia*     31,    e033     [ADS](https://ui.adsabs.harvard.edu/abs/2014PASA...31...33M) | [DOI](https://doi.org/10.1017/pasa.2014.29)  
 43. **GERLUMPH Data Release 1: High-resolution Cosmological Microlensing Magnification Maps and eResearch Tools**  
-   Vernardos, G., **Fluke, C.**, Bate, N., Croton, D.     *\apjs*     211     1     16     [ADS](https://ui.adsabs.harvard.edu/abs/2014ApJS..211...16V) | [DOI](https://doi.org/10.1088/0067-0049/211/1/16)  
+   Vernardos, G., **Fluke, C.**, Bate, N., Croton, D.     *\apjs*     211,    1,    16     [ADS](https://ui.adsabs.harvard.edu/abs/2014ApJS..211...16V) | [DOI](https://doi.org/10.1088/0067-0049/211/1/16)  
 44. **Three-dimensional visualization of nanostructured surfaces and bacterial attachment using Autodesk\textregistered Maya\textregistered**  
-   Boshkovikj, V., **Fluke, C. J.**, Crawford, R. J., Ivanova, E. P.     *Scientific Reports*     4     4228     [ADS](https://ui.adsabs.harvard.edu/abs/2014NatSR...4.4228B) | [DOI](https://doi.org/10.1038/srep04228)  
+   Boshkovikj, V., **Fluke, C. J.**, Crawford, R. J., Ivanova, E. P.     *Scientific Reports*     4,    4228     [ADS](https://ui.adsabs.harvard.edu/abs/2014NatSR...4.4228B) | [DOI](https://doi.org/10.1038/srep04228)  
 
 ## 2013
 
 
 45. **Astronomy and Computing: A New Journal for the Astronomical Computing Community**  
-   Mann, R., Accomazzi, A., Budav\'ari, T., **Fluke, C.**, Gray, N., O'Mullane, W., Wicenec, A., Wise, M.     *Astronomical Data Analysis Software and Systems XXII*     475     7     [ADS](https://ui.adsabs.harvard.edu/abs/2013ASPC..475....7M)  
+   Mann, R., Accomazzi, A., Budav\'ari, T., **Fluke, C.**, Gray, N., O'Mullane, W., Wicenec, A., Wise, M.     *Astronomical Data Analysis Software and Systems XXII*     475,    7     [ADS](https://ui.adsabs.harvard.edu/abs/2013ASPC..475....7M)  
 46. **Embedding and Publishing Interactive, 3-Dimensional, Scientific Figures in Portable Document Format (PDF) Files**  
-   Barnes, D. G., Vidiassov, M., Ruthensteiner, B., **Fluke, C. J.**, Quayle, M. R., McHenry, C. R.     *PLoS ONE*     8     9     e69446     [ADS](https://ui.adsabs.harvard.edu/abs/2013PLoSO...869446B) | [DOI](https://doi.org/10.1371/journal.pone.0069446)  
+   Barnes, D. G., Vidiassov, M., Ruthensteiner, B., **Fluke, C. J.**, Quayle, M. R., McHenry, C. R.     *PLoS ONE*     8,    9,    e69446     [ADS](https://ui.adsabs.harvard.edu/abs/2013PLoSO...869446B) | [DOI](https://doi.org/10.1371/journal.pone.0069446)  
 47. **A new parameter space study of cosmological microlensing**  
-   Vernardos, G., **Fluke, C.**     *Monthly Notices of the Royal Astronomical Society*     434     1     832-847     [ADS](https://ui.adsabs.harvard.edu/abs/2013MNRAS.434..832V) | [DOI](https://doi.org/10.1093/mnras/stt1076)  
+   Vernardos, G., **Fluke, C.**     *Monthly Notices of the Royal Astronomical Society*     434,    1,    832-847     [ADS](https://ui.adsabs.harvard.edu/abs/2013MNRAS.434..832V) | [DOI](https://doi.org/10.1093/mnras/stt1076)  
 48. **Tera-scale astronomical data analysis and visualization**  
-   Hassan, A., **Fluke, C.**, Barnes, D., Kilborn, V.     *Monthly Notices of the Royal Astronomical Society*     429     3     2442-2455     [ADS](https://ui.adsabs.harvard.edu/abs/2013MNRAS.429.2442H) | [DOI](https://doi.org/10.1093/mnras/sts513)  
+   Hassan, A., **Fluke, C.**, Barnes, D., Kilborn, V.     *Monthly Notices of the Royal Astronomical Society*     429,    3,    2442-2455     [ADS](https://ui.adsabs.harvard.edu/abs/2013MNRAS.429.2442H) | [DOI](https://doi.org/10.1093/mnras/sts513)  
 49. **Biophysical Model of Bacterial Cell Interactions with Nanopatterned Cicada Wing Surfaces**  
-   Pogodin, S., Hasan, J., Baulin, V. A., Webb, H. K., Truong Khanh, V., Phong Nguyen, T. H., Boshkovikj, V., **Fluke, C. J.**, Watson, G. S., Watson, J. A., Crawford, R. J., Ivanova, E. P.     *Biophysical Journal*     104     4     835-840     [ADS](https://ui.adsabs.harvard.edu/abs/2013BpJ...104..835P) | [DOI](https://doi.org/10.1016/j.bpj.2012.12.046)  
+   Pogodin, S., Hasan, J., Baulin, V. A., Webb, H. K., Truong Khanh, V., Phong Nguyen, T. H., Boshkovikj, V., **Fluke, C. J.**, Watson, G. S., Watson, J. A., Crawford, R. J., Ivanova, E. P.     *Biophysical Journal*     104,    4,    835-840     [ADS](https://ui.adsabs.harvard.edu/abs/2013BpJ...104..835P) | [DOI](https://doi.org/10.1016/j.bpj.2012.12.046)  
 50. **Bacterial attachment on sub-nanometrically smooth titanium substrata**  
-   Webb, H., Boshkovikj, V., **Fluke, C.**, Truong, V., Hasan, J., Baulin, V., Lapovok, R., Estrin, Y., Crawford, R., Ivanova, E.     *Biofouling*     29     2     163-170     [ADS](https://ui.adsabs.harvard.edu/abs/2013Biofo..29..163W) | [DOI](https://doi.org/10.1080/08927014.2012.757697)  
+   Webb, H., Boshkovikj, V., **Fluke, C.**, Truong, V., Hasan, J., Baulin, V., Lapovok, R., Estrin, Y., Crawford, R., Ivanova, E.     *Biofouling*     29,    2,    163-170     [ADS](https://ui.adsabs.harvard.edu/abs/2013Biofo..29..163W) | [DOI](https://doi.org/10.1080/08927014.2012.757697)  
 51. **Astronomy and Computing: A new journal for the astronomical computing community**  
-   Accomazzi, A., Budav\'ari, T., **Fluke, C.**, Gray, N., Mann, R. G., O'Mullane, W., Wicenec, A., Wise, M.     *Astronomy and Computing*     1     1-4     [ADS](https://ui.adsabs.harvard.edu/abs/2013A&C.....1....1A) | [DOI](https://doi.org/10.1016/j.ascom.2012.10.001)  
+   Accomazzi, A., Budav\'ari, T., **Fluke, C.**, Gray, N., Mann, R. G., O'Mullane, W., Wicenec, A., Wise, M.     *Astronomy and Computing*     1,    1-4     [ADS](https://ui.adsabs.harvard.edu/abs/2013A&C.....1....1A) | [DOI](https://doi.org/10.1016/j.ascom.2012.10.001)  
 
 ## 2012
 
 
 52. **Unleashing the Power of Distributed CPU/GPU Architectures: Massive Astronomical Data Analysis and Visualization Case Study**  
-   Hassan, A., **Fluke, C.**, Barnes, D.     *Astronomical Data Analysis Software and Systems XXI*     461     45     [ADS](https://ui.adsabs.harvard.edu/abs/2012ASPC..461...45H) | [DOI](https://doi.org/10.48550/arXiv.1111.6661)  
+   Hassan, A., **Fluke, C.**, Barnes, D.     *Astronomical Data Analysis Software and Systems XXI*     461,    45     [ADS](https://ui.adsabs.harvard.edu/abs/2012ASPC..461...45H) | [DOI](https://doi.org/10.48550/arXiv.1111.6661)  
 53. **Spotting Radio Transients with the Help of GPUs**  
-   Barsdell, B., Bailes, M., Barnes, D., **Fluke, C.**     *Astronomical Data Analysis Software and Systems XXI*     461     37     [ADS](https://ui.adsabs.harvard.edu/abs/2012ASPC..461...37B) | [DOI](https://doi.org/10.48550/arXiv.1112.0065)  
+   Barsdell, B., Bailes, M., Barnes, D., **Fluke, C.**     *Astronomical Data Analysis Software and Systems XXI*     461,    37     [ADS](https://ui.adsabs.harvard.edu/abs/2012ASPC..461...37B) | [DOI](https://doi.org/10.48550/arXiv.1112.0065)  
 54. **Accelerating the Rate of Astronomical Discovery with GPU-Powered Clusters**  
-   **Fluke, C.**     *Astronomical Data Analysis Software and Systems XXI*     461     3     [ADS](https://ui.adsabs.harvard.edu/abs/2012ASPC..461....3F) | [DOI](https://doi.org/10.48550/arXiv.1111.5081)  
+   **Fluke, C.**     *Astronomical Data Analysis Software and Systems XXI*     461,    3     [ADS](https://ui.adsabs.harvard.edu/abs/2012ASPC..461....3F) | [DOI](https://doi.org/10.48550/arXiv.1111.5081)  
 55. **A Distributed GPU-Based Framework for Real-Time 3D Volume Rendering of Large Astronomical Data Cubes**  
-   Hassan, A., **Fluke, C.**, Barnes, D.     *Publications of the Astronomical Society of Australia*     29     3     340-351     [ADS](https://ui.adsabs.harvard.edu/abs/2012PASA...29..340H) | [DOI](https://doi.org/10.1071/AS12025)  
+   Hassan, A., **Fluke, C.**, Barnes, D.     *Publications of the Astronomical Society of Australia*     29,    3,    340-351     [ADS](https://ui.adsabs.harvard.edu/abs/2012PASA...29..340H) | [DOI](https://doi.org/10.1071/AS12025)  
 56. **Accelerating incoherent dedispersion**  
-   Barsdell, B., Bailes, M., Barnes, D., **Fluke, C.**     *Monthly Notices of the Royal Astronomical Society*     422     1     379-392     [ADS](https://ui.adsabs.harvard.edu/abs/2012MNRAS.422..379B) | [DOI](https://doi.org/10.1111/j.1365-2966.2012.20622.x)  
+   Barsdell, B., Bailes, M., Barnes, D., **Fluke, C.**     *Monthly Notices of the Royal Astronomical Society*     422,    1,    379-392     [ADS](https://ui.adsabs.harvard.edu/abs/2012MNRAS.422..379B) | [DOI](https://doi.org/10.1111/j.1365-2966.2012.20622.x)  
 57. **Three-dimensional shapelets and an automated classification scheme for dark matter haloes**  
-   **Fluke, C.**, Malec, A., Lasky, P., Barsdell, B.     *Monthly Notices of the Royal Astronomical Society*     421     2     1499-1516     [ADS](https://ui.adsabs.harvard.edu/abs/2012MNRAS.421.1499F) | [DOI](https://doi.org/10.1111/j.1365-2966.2012.20407.x)  
+   **Fluke, C.**, Malec, A., Lasky, P., Barsdell, B.     *Monthly Notices of the Royal Astronomical Society*     421,    2,    1499-1516     [ADS](https://ui.adsabs.harvard.edu/abs/2012MNRAS.421.1499F) | [DOI](https://doi.org/10.1111/j.1365-2966.2012.20407.x)  
 58. **Gravitational lensing with three-dimensional ray tracing**  
-   Killedar, M., Lasky, P., Lewis, G., **Fluke, C.**     *Monthly Notices of the Royal Astronomical Society*     420     1     155-169     [ADS](https://ui.adsabs.harvard.edu/abs/2012MNRAS.420..155K) | [DOI](https://doi.org/10.1111/j.1365-2966.2011.20023.x)  
+   Killedar, M., Lasky, P., Lewis, G., **Fluke, C.**     *Monthly Notices of the Royal Astronomical Society*     420,    1,    155-169     [ADS](https://ui.adsabs.harvard.edu/abs/2012MNRAS.420..155K) | [DOI](https://doi.org/10.1111/j.1365-2966.2011.20023.x)  
 59. **A Graphics Processing Unit-enabled, High-resolution Cosmological Microlensing Parameter Survey**  
-   Bate, N., **Fluke, C.**     *\apj*     744     2     90     [ADS](https://ui.adsabs.harvard.edu/abs/2012ApJ...744...90B) | [DOI](https://doi.org/10.1088/0004-637X/744/2/90)  
+   Bate, N., **Fluke, C.**     *\apj*     744,    2,    90     [ADS](https://ui.adsabs.harvard.edu/abs/2012ApJ...744...90B) | [DOI](https://doi.org/10.1088/0004-637X/744/2/90)  
 
 ## 2011
 
 
 60. **Differential attraction and repulsion of Staphylococcus aureus and Pseudomonas aeruginosa on molecularly smooth titanium films**  
-   Ivanova, E. P., Truong Khanh, V., Webb, H. K., Baulin, V. A., Wang, J. Y., Mohammodi, N., Wang, F., **Fluke, C.**, Crawford, R. J.     *Scientific Reports*     1     165     [ADS](https://ui.adsabs.harvard.edu/abs/2011NatSR...1..165I) | [DOI](https://doi.org/10.1038/srep00165)  
+   Ivanova, E. P., Truong Khanh, V., Webb, H. K., Baulin, V. A., Wang, J. Y., Mohammodi, N., Wang, F., **Fluke, C.**, Crawford, R. J.     *Scientific Reports*     1,    165     [ADS](https://ui.adsabs.harvard.edu/abs/2011NatSR...1..165I) | [DOI](https://doi.org/10.1038/srep00165)  
 61. **Shape, shear and flexion - II. Quantifying the flexion formalism for extended sources with the ray-bundle method**  
-   **Fluke, C.**, Lasky, P.     *Monthly Notices of the Royal Astronomical Society*     416     3     1616-1628     [ADS](https://ui.adsabs.harvard.edu/abs/2011MNRAS.416.1616F) | [DOI](https://doi.org/10.1111/j.1365-2966.2011.18403.x)  
+   **Fluke, C.**, Lasky, P.     *Monthly Notices of the Royal Astronomical Society*     416,    3,    1616-1628     [ADS](https://ui.adsabs.harvard.edu/abs/2011MNRAS.416.1616F) | [DOI](https://doi.org/10.1111/j.1365-2966.2011.18403.x)  
 62. **Fitting Galaxies on GPUs**  
-   Barsdell, B., Barnes, D., **Fluke, C.**     *Astronomical Data Analysis Software and Systems XX*     442     451     [ADS](https://ui.adsabs.harvard.edu/abs/2011ASPC..442..451B) | [DOI](https://doi.org/10.48550/arXiv.1101.2254)  
+   Barsdell, B., Barnes, D., **Fluke, C.**     *Astronomical Data Analysis Software and Systems XX*     442,    451     [ADS](https://ui.adsabs.harvard.edu/abs/2011ASPC..442..451B) | [DOI](https://doi.org/10.48550/arXiv.1101.2254)  
 63. **Distributed GPU Volume Rendering of ASKAP Spectral Data Cubes**  
-   Hassan, A., **Fluke, C.**, Barnes, D.     *Astronomical Data Analysis Software and Systems XX*     442     207     [ADS](https://ui.adsabs.harvard.edu/abs/2011ASPC..442..207H) | [DOI](https://doi.org/10.48550/arXiv.1012.2909)  
+   Hassan, A., **Fluke, C.**, Barnes, D.     *Astronomical Data Analysis Software and Systems XX*     442,    207     [ADS](https://ui.adsabs.harvard.edu/abs/2011ASPC..442..207H) | [DOI](https://doi.org/10.48550/arXiv.1012.2909)  
 64. **Scientific Visualization in Astronomy: Towards the Petascale Astronomy Era**  
-   Hassan, A., **Fluke, C. J.**     *Publications of the Astronomical Society of Australia*     28     2     150-170     [ADS](https://ui.adsabs.harvard.edu/abs/2011PASA...28..150H) | [DOI](https://doi.org/10.1071/AS10031)  
+   Hassan, A., **Fluke, C. J.**     *Publications of the Astronomical Society of Australia*     28,    2,    150-170     [ADS](https://ui.adsabs.harvard.edu/abs/2011PASA...28..150H) | [DOI](https://doi.org/10.1071/AS10031)  
 65. **Interactive visualization of the largest radioastronomy cubes**  
-   Hassan, A., **Fluke, C.**, Barnes, D.     *\na*     16     2     100-109     [ADS](https://ui.adsabs.harvard.edu/abs/2011NewA...16..100H) | [DOI](https://doi.org/10.1016/j.newast.2010.07.009)  
+   Hassan, A., **Fluke, C.**, Barnes, D.     *\na*     16,    2,    100-109     [ADS](https://ui.adsabs.harvard.edu/abs/2011NewA...16..100H) | [DOI](https://doi.org/10.1016/j.newast.2010.07.009)  
 66. **Astrophysical Supercomputing with GPUs: Critical Decisions for Early Adopters**  
-   **Fluke, C. J.**, Barnes, D. G., Barsdell, B. R., Hassan, A. H.     *Publications of the Astronomical Society of Australia*     28     1     15-27     [ADS](https://ui.adsabs.harvard.edu/abs/2011PASA...28...15F) | [DOI](https://doi.org/10.1071/AS10019)  
+   **Fluke, C. J.**, Barnes, D. G., Barsdell, B. R., Hassan, A. H.     *Publications of the Astronomical Society of Australia*     28,    1,    15-27     [ADS](https://ui.adsabs.harvard.edu/abs/2011PASA...28...15F) | [DOI](https://doi.org/10.1071/AS10019)  
 
 ## 2010
 
 
 67. **Visualisation and Analysis Challenges for WALLABY**  
-   **Fluke, C. J.**, Barnes, D. G., Hassan, A. H.     *2010 International Conference on Enabling Science and Nanotechnology (ESciNano)*     15     [ADS](https://ui.adsabs.harvard.edu/abs/2010esci.conf...15F) | [DOI](https://doi.org/10.1109/eScienceW.2010.12)  
+   **Fluke, C. J.**, Barnes, D. G., Hassan, A. H.     *2010 Sixth IEEE International Conference on e-Science Workshops*     15     [ADS](https://ui.adsabs.harvard.edu/abs/2010esci.conf...15F) | [DOI](https://doi.org/10.1109/eScienceW.2010.12)  
 68. **Visualisation and Analysis Challenges for WALLABY**  
    **Fluke, C. J.**, Barnes, D. G., Hassan, A. H.     *arXiv e-prints*     arXiv:1012.2901     [ADS](https://ui.adsabs.harvard.edu/abs/2010arXiv1012.2901F) | [DOI](https://doi.org/10.48550/arXiv.1012.2901)  
 69. **GPU-Based Volume Rendering of Noisy Multi-Spectral Astronomical Data**  
-   Hassan, A., **Fluke, C.**, Barnes, D.     *Astronomical Data Analysis Software and Systems XIX*     434     283     [ADS](https://ui.adsabs.harvard.edu/abs/2010ASPC..434..283H) | [DOI](https://doi.org/10.48550/arXiv.1001.2049)  
+   Hassan, A., **Fluke, C.**, Barnes, D.     *Astronomical Data Analysis Software and Systems XIX*     434,    283     [ADS](https://ui.adsabs.harvard.edu/abs/2010ASPC..434..283H) | [DOI](https://doi.org/10.48550/arXiv.1001.2049)  
 70. **Advanced Architectures for Astrophysical Supercomputing**  
-   Barsdell, B., Barnes, D., **Fluke, C.**     *Astronomical Data Analysis Software and Systems XIX*     434     209     [ADS](https://ui.adsabs.harvard.edu/abs/2010ASPC..434..209B) | [DOI](https://doi.org/10.48550/arXiv.1001.2048)  
+   Barsdell, B., Barnes, D., **Fluke, C.**     *Astronomical Data Analysis Software and Systems XIX*     434,    209     [ADS](https://ui.adsabs.harvard.edu/abs/2010ASPC..434..209B) | [DOI](https://doi.org/10.48550/arXiv.1001.2048)  
 71. **Visualization-Directed Interactive Model-Fitting to Spectral Data Cubes**  
-   **Fluke, C.**, English, J., Barnes, D.     *Astronomical Data Analysis Software and Systems XIX*     434     167     [ADS](https://ui.adsabs.harvard.edu/abs/2010ASPC..434..167F) | [DOI](https://doi.org/10.48550/arXiv.1001.2043)  
+   **Fluke, C.**, English, J., Barnes, D.     *Astronomical Data Analysis Software and Systems XIX*     434,    167     [ADS](https://ui.adsabs.harvard.edu/abs/2010ASPC..434..167F) | [DOI](https://doi.org/10.48550/arXiv.1001.2043)  
 72. **Computational advances in gravitational microlensing: A comparison of CPU, GPU, and parallel, large data codes**  
-   Bate, N., **Fluke, C.**, Barsdell, B., Garsden, H., Lewis, G.     *\na*     15     8     726-734     [ADS](https://ui.adsabs.harvard.edu/abs/2010NewA...15..726B) | [DOI](https://doi.org/10.1016/j.newast.2010.05.008)  
+   Bate, N., **Fluke, C.**, Barsdell, B., Garsden, H., Lewis, G.     *\na*     15,    8,    726-734     [ADS](https://ui.adsabs.harvard.edu/abs/2010NewA...15..726B) | [DOI](https://doi.org/10.1016/j.newast.2010.05.008)  
 73. **Analysing astronomy algorithms for graphics processing units and beyond**  
-   Barsdell, B., Barnes, D., **Fluke, C.**     *Monthly Notices of the Royal Astronomical Society*     408     3     1936-1944     [ADS](https://ui.adsabs.harvard.edu/abs/2010MNRAS.408.1936B) | [DOI](https://doi.org/10.1111/j.1365-2966.2010.17257.x)  
+   Barsdell, B., Barnes, D., **Fluke, C.**     *Monthly Notices of the Royal Astronomical Society*     408,    3,    1936-1944     [ADS](https://ui.adsabs.harvard.edu/abs/2010MNRAS.408.1936B) | [DOI](https://doi.org/10.1111/j.1365-2966.2010.17257.x)  
 74. **The influence of nano-scale surface roughness on bacterial adhesion to ultrafine-grained titanium**  
-   Truong K., V., Lapovok, R., Estrin, Y. S., Rundell, S., Wang, J. Y., **Fluke, C. J.**, Crawford, R. J., Ivanova, E. P.     *Biomaterials*     31     13     3674-3683     [ADS](https://ui.adsabs.harvard.edu/abs/2010Biomt..31.3674T) | [DOI](https://doi.org/10.1016/j.biomaterials.2010.01.071)  
+   Truong K., V., Lapovok, R., Estrin, Y. S., Rundell, S., Wang, J. Y., **Fluke, C. J.**, Crawford, R. J., Ivanova, E. P.     *Biomaterials*     31,    13,    3674-3683     [ADS](https://ui.adsabs.harvard.edu/abs/2010Biomt..31.3674T) | [DOI](https://doi.org/10.1016/j.biomaterials.2010.01.071)  
 75. **Bacterial attachment on optical fibre surfaces**  
-   Mitik-Dineva, N., Wang, J., Truong, V., Stoddart, P., Alexander, M., Albutt, D., **Fluke, C.**, Crawford, R., Ivanova, E.     *Biofouling*     26     4     461-470     [ADS](https://ui.adsabs.harvard.edu/abs/2010Biofo..26..461M) | [DOI](https://doi.org/10.1080/08927011003753399)  
+   Mitik-Dineva, N., Wang, J., Truong, V., Stoddart, P., Alexander, M., Albutt, D., **Fluke, C.**, Crawford, R., Ivanova, E.     *Biofouling*     26,    4,    461-470     [ADS](https://ui.adsabs.harvard.edu/abs/2010Biofo..26..461M) | [DOI](https://doi.org/10.1080/08927011003753399)  
 76. **Teraflop per second gravitational lensing ray-shooting using graphics processing units**  
-   Thompson, A. C., **Fluke, C. J.**, Barnes, D. G., Barsdell, B. R.     *\na*     15     1     16-23     [ADS](https://ui.adsabs.harvard.edu/abs/2010NewA...15...16T) | [DOI](https://doi.org/10.1016/j.newast.2009.05.010)  
+   Thompson, A. C., **Fluke, C. J.**, Barnes, D. G., Barsdell, B. R.     *\na*     15,    1,    16-23     [ADS](https://ui.adsabs.harvard.edu/abs/2010NewA...15...16T) | [DOI](https://doi.org/10.1016/j.newast.2009.05.010)  
 
 ## 2009
 
 
 77. **Shape, shear and flexion: an analytic flexion formalism for realistic mass profiles**  
-   Lasky, P., **Fluke, C.**     *Monthly Notices of the Royal Astronomical Society*     396     4     2257-2268     [ADS](https://ui.adsabs.harvard.edu/abs/2009MNRAS.396.2257L) | [DOI](https://doi.org/10.1111/j.1365-2966.2009.14888.x)  
+   Lasky, P., **Fluke, C.**     *Monthly Notices of the Royal Astronomical Society*     396,    4,    2257-2268     [ADS](https://ui.adsabs.harvard.edu/abs/2009MNRAS.396.2257L) | [DOI](https://doi.org/10.1111/j.1365-2966.2009.14888.x)  
 78. **Interchanging Interactive 3D Graphics for Astronomy$^1$**  
-   **Fluke, C.**, Barnes, D., Jones, N.     *Publications of the Astronomical Society of Australia*     26     1     64-74     [ADS](https://ui.adsabs.harvard.edu/abs/2009PASA...26...64F) | [DOI](https://doi.org/10.1071/AS08025)  
+   **Fluke, C.**, Barnes, D., Jones, N.     *Publications of the Astronomical Society of Australia*     26,    1,    64-74     [ADS](https://ui.adsabs.harvard.edu/abs/2009PASA...26...64F) | [DOI](https://doi.org/10.1071/AS08025)  
 
 ## 2008
 
 
 79. **Incorporating interactive three-dimensional graphics in astronomy research papers**  
-   Barnes, D. G., **Fluke, C. J.**     *\na*     13     8     599-605     [ADS](https://ui.adsabs.harvard.edu/abs/2008NewA...13..599B) | [DOI](https://doi.org/10.1016/j.newast.2008.03.008)  
+   Barnes, D. G., **Fluke, C. J.**     *\na*     13,    8,    599-605     [ADS](https://ui.adsabs.harvard.edu/abs/2008NewA...13..599B) | [DOI](https://doi.org/10.1016/j.newast.2008.03.008)  
 80. **Customized Cosmological Visualization**  
-   **Fluke, C.**, Barnes, D.     *Astronomical Data Analysis Software and Systems XVII*     394     327     [ADS](https://ui.adsabs.harvard.edu/abs/2008ASPC..394..327F)  
+   **Fluke, C.**, Barnes, D.     *Astronomical Data Analysis Software and Systems XVII*     394,    327     [ADS](https://ui.adsabs.harvard.edu/abs/2008ASPC..394..327F)  
 81. **S2PLOT: a Straightforward Library for Advanced 3-dimensional Scientific Visualisation**  
-   Barnes, D., **Fluke, C.**     *Astronomical Data Analysis Software and Systems XVII*     394     149     [ADS](https://ui.adsabs.harvard.edu/abs/2008ASPC..394..149B)  
+   Barnes, D., **Fluke, C.**     *Astronomical Data Analysis Software and Systems XVII*     394,    149     [ADS](https://ui.adsabs.harvard.edu/abs/2008ASPC..394..149B)  
 82. **Virtual Field Trips: Using Google Maps to Support Online Learning and Teaching of the History of Astronomy**  
-   **Fluke, C. J.**     *Astronomy Education Review*     7     2     74-96     [ADS](https://ui.adsabs.harvard.edu/abs/2008AEdRv...7...74F) | [DOI](https://doi.org/10.3847/AER2008022)  
+   **Fluke, C. J.**     *Astronomy Education Review*     7,    2,    74-96     [ADS](https://ui.adsabs.harvard.edu/abs/2008AEdRv...7...74F) | [DOI](https://doi.org/10.3847/AER2008022)  
 83. **3D visualization**  
    **Fluke, C.**, Barnes, D.     *Gas and Stars in Galaxies - A Multi-Wavelength 3D Perspective*     59     [ADS](https://ui.adsabs.harvard.edu/abs/2008gsgm.confE..59F)  
 84. **The Interactive Astronomy Textbook**  
-   **Fluke, C. J.**, Barnes, D. G.     *Astronomy Education Review*     7     1     113-125     [ADS](https://ui.adsabs.harvard.edu/abs/2008AEdRv...7..113F) | [DOI](https://doi.org/10.3847/AER2008010)  
+   **Fluke, C. J.**, Barnes, D. G.     *Astronomy Education Review*     7,    1,    113-125     [ADS](https://ui.adsabs.harvard.edu/abs/2008AEdRv...7..113F) | [DOI](https://doi.org/10.3847/AER2008010)  
 85. **Visualising the Local Volume**  
-   Barnes, D. G., **Fluke, C. J.**     *Galaxies in the Local Volume*     5     183     [ADS](https://ui.adsabs.harvard.edu/abs/2008ASSP....5..183B) | [DOI](https://doi.org/10.1007/978-1-4020-6933-8_39)  
+   Barnes, D. G., **Fluke, C. J.**     *Galaxies in the Local Volume*     5,    183     [ADS](https://ui.adsabs.harvard.edu/abs/2008ASSP....5..183B) | [DOI](https://doi.org/10.1007/978-1-4020-6933-8_39)  
 86. **Virtual Field Trips: Using Google Maps to Support Online Learning and Teaching of the History of Astronomy**  
-   **Fluke, C. J.**     *Astronomy Education Review*     7     2     74-96     [ADS](https://ui.adsabs.harvard.edu/abs/2008AEdRv...7b..74F)  
+   **Fluke, C. J.**     *Astronomy Education Review*     7,    2,    74-96     [ADS](https://ui.adsabs.harvard.edu/abs/2008AEdRv...7b..74F)  
 87. **The Interactive Astronomy Textbook**  
-   **Fluke, C. J.**, Barnes, D. G.     *Astronomy Education Review*     7     1     113-125     [ADS](https://ui.adsabs.harvard.edu/abs/2008AEdRv...7a.113F)  
+   **Fluke, C. J.**, Barnes, D. G.     *Astronomy Education Review*     7,    1,    113-125     [ADS](https://ui.adsabs.harvard.edu/abs/2008AEdRv...7a.113F)  
 
 ## 2006
 
 
 88. **An Advanced, Three-Dimensional Plotting Library for Astronomy**  
-   Barnes, D. G., **Fluke, C. J.**, Bourke, P. D., Parry, O. T.     *Publications of the Astronomical Society of Australia*     23     2     82-93     [ADS](https://ui.adsabs.harvard.edu/abs/2006PASA...23...82B) | [DOI](https://doi.org/10.1071/AS06009)  
+   Barnes, D. G., **Fluke, C. J.**, Bourke, P. D., Parry, O. T.     *Publications of the Astronomical Society of Australia*     23,    2,    82-93     [ADS](https://ui.adsabs.harvard.edu/abs/2006PASA...23...82B) | [DOI](https://doi.org/10.1071/AS06009)  
 89. **A pilot search for weak gravitational lensing by rich galaxy clusters at 12mm**  
    **Fluke, C.**, Johnston-Hollitt, M., Maddison, S., Power, C.     C1535     [ADS](https://ui.adsabs.harvard.edu/abs/2006atnf.prop..204F)  
 90. **Future Directions in Astronomy Visualization**  
-   **Fluke, C. J.**, Bourke, P. D., O'Donovan, D.     *Publications of the Astronomical Society of Australia*     23     1     12-24     [ADS](https://ui.adsabs.harvard.edu/abs/2006PASA...23...12F) | [DOI](https://doi.org/10.1071/AS05034)  
+   **Fluke, C. J.**, Bourke, P. D., O'Donovan, D.     *Publications of the Astronomical Society of Australia*     23,    1,    12-24     [ADS](https://ui.adsabs.harvard.edu/abs/2006PASA...23...12F) | [DOI](https://doi.org/10.1071/AS05034)  
 
 ## 2005
 
@@ -270,41 +272,41 @@ title: Publications
 
 
 92. **Investigations of the interstellar medium at Washburn Observatory 1930-58**  
-   Liebl, D. S., **Fluke, C.**     *Journal of Astronomical History and Heritage*     7     2     85-94     [ADS](https://ui.adsabs.harvard.edu/abs/2004JAHH....7...85L)  
+   Liebl, D. S., **Fluke, C.**     *Journal of Astronomical History and Heritage*     7,    2,    85-94     [ADS](https://ui.adsabs.harvard.edu/abs/2004JAHH....7...85L)  
 
 ## 2002
 
 
 93. **The size of the mid-IR emission region of a quasar inferred from microlensed images of Q2237+0305**  
-   Wyithe, J., Agol, E., **Fluke, C.**     *Monthly Notices of the Royal Astronomical Society*     331     4     1041-1052     [ADS](https://ui.adsabs.harvard.edu/abs/2002MNRAS.331.1041W) | [DOI](https://doi.org/10.1046/j.1365-8711.2002.05252.x)  
+   Wyithe, J., Agol, E., **Fluke, C.**     *Monthly Notices of the Royal Astronomical Society*     331,    4,    1041-1052     [ADS](https://ui.adsabs.harvard.edu/abs/2002MNRAS.331.1041W) | [DOI](https://doi.org/10.1046/j.1365-8711.2002.05252.x)  
 94. **Investigating cosmological weak lensing with the ray-bundle method**  
-   **Fluke, C.**, Webster, R., Mortlock, D.     *Monthly Notices of the Royal Astronomical Society*     331     1     180-196     [ADS](https://ui.adsabs.harvard.edu/abs/2002MNRAS.331..180F) | [DOI](https://doi.org/10.1046/j.1365-8711.2002.05178.x)  
+   **Fluke, C.**, Webster, R., Mortlock, D.     *Monthly Notices of the Royal Astronomical Society*     331,    1,    180-196     [ADS](https://ui.adsabs.harvard.edu/abs/2002MNRAS.331..180F) | [DOI](https://doi.org/10.1046/j.1365-8711.2002.05178.x)  
 
 ## 2001
 
 
 95. **Mid-Infrared Imaging of the Einstein Cross QSO**  
-   Agol, E., Wyithe, S., Jones, B., **Fluke, C.**     *Publications of the Astronomical Society of Australia*     18     2     166-168     [ADS](https://ui.adsabs.harvard.edu/abs/2001PASA...18..166A) | [DOI](https://doi.org/10.1071/AS01015)  
+   Agol, E., Wyithe, S., Jones, B., **Fluke, C.**     *Publications of the Astronomical Society of Australia*     18,    2,    166-168     [ADS](https://ui.adsabs.harvard.edu/abs/2001PASA...18..166A) | [DOI](https://doi.org/10.1071/AS01015)  
 96. **Cosmological Weak Lensing with the Ray-Bundle Method**  
-   **Fluke, C.**, Webster, R.     *Gravitational Lensing: Recent Progress and Future Go*     237     367     [ADS](https://ui.adsabs.harvard.edu/abs/2001ASPC..237..367F)  
+   **Fluke, C.**, Webster, R.     *Gravitational Lensing: Recent Progress and Future Go*     237,    367     [ADS](https://ui.adsabs.harvard.edu/abs/2001ASPC..237..367F)  
 
 ## 2000
 
 
 97. **Weak gravitational lensing in different cosmologies, using an algorithm for shear in three dimensions**  
-   Barber, A. J., Thomas, P. A., Couchman, H., **Fluke, C.**     *Monthly Notices of the Royal Astronomical Society*     319     1     267-288     [ADS](https://ui.adsabs.harvard.edu/abs/2000MNRAS.319..267B) | [DOI](https://doi.org/10.1046/j.1365-8711.2000.03864.x)  
+   Barber, A. J., Thomas, P. A., Couchman, H., **Fluke, C.**     *Monthly Notices of the Royal Astronomical Society*     319,    1,    267-288     [ADS](https://ui.adsabs.harvard.edu/abs/2000MNRAS.319..267B) | [DOI](https://doi.org/10.1046/j.1365-8711.2000.03864.x)  
 
 ## 1999
 
 
 98. **The ray-bundle method for calculating weak magnification by gravitational lenses**  
-   **Fluke, C.**, Webster, R., Mortlock, D. J.     *Monthly Notices of the Royal Astronomical Society*     306     3     567-574     [ADS](https://ui.adsabs.harvard.edu/abs/1999MNRAS.306..567F) | [DOI](https://doi.org/10.1046/j.1365-8711.1999.02534.x)  
+   **Fluke, C.**, Webster, R., Mortlock, D. J.     *Monthly Notices of the Royal Astronomical Society*     306,    3,    567-574     [ADS](https://ui.adsabs.harvard.edu/abs/1999MNRAS.306..567F) | [DOI](https://doi.org/10.1046/j.1365-8711.1999.02534.x)  
 99. **The Cosmological Uncertainty Principle**  
    **Fluke, C.**, Webster, R.     *Looking Deep in the Southern Sky*     66     [ADS](https://ui.adsabs.harvard.edu/abs/1999ldss.work...66F)  
 100. **Weak gravitational lensing with the Ray Bundle Method : or, who is Ray Bundle and what does he know about the universe?**  
    **Fluke, C. J.**     [ADS](https://ui.adsabs.harvard.edu/abs/1999PhDT.......160F)  
 101. **Investigating the geometry of quasars with microlensing**  
-   **Fluke, C.**, Webster, R.     *Monthly Notices of the Royal Astronomical Society*     302     1     68-74     [ADS](https://ui.adsabs.harvard.edu/abs/1999MNRAS.302...68F) | [DOI](https://doi.org/10.1046/j.1365-8711.1999.02109.x)  
+   **Fluke, C.**, Webster, R.     *Monthly Notices of the Royal Astronomical Society*     302,    1,    68-74     [ADS](https://ui.adsabs.harvard.edu/abs/1999MNRAS.302...68F) | [DOI](https://doi.org/10.1046/j.1365-8711.1999.02109.x)  
 
 ## 1998
 

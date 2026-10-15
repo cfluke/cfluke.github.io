@@ -71,6 +71,8 @@ with open("publications.qmd", "w", encoding="utf-8") as out:
     out.write("title: Publications\n")
     out.write("---\n\n")
 
+    out.write("**Note**: Not yet validated\n\n");
+
     for entry in entries:
 
         year = entry.get("year", "Unknown")
@@ -109,10 +111,10 @@ with open("publications.qmd", "w", encoding="utf-8") as out:
             )
 
         if volume:
-            out.write(f"   {volume}  ")
+            out.write(f"   {volume}, ")
 
         if number:
-            out.write(f"   {number}  ")
+            out.write(f"   {number}, ")
 
         if pages:
             out.write(f"   {pages}  ")
