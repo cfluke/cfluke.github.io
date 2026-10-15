@@ -1,55 +1,173 @@
-from collections import defaultdict
-from bibtexparser import parse_file
+import bibtexparser
 
-library = parse_file("publications.bib")
 
-groups = defaultdict(list)
+def clean(text):
+    if not text:
+        return ""
+    return text.replace("{", "").replace("}", "").strip()
 
-for entry in library.entries:
 
-    data = entry.fields_dict
+def format_authors(author_string):
 
-    keywords = data.get("keywords")
+    authors = []
 
-    if keywords:
-        values = keywords.value.split(",")
-    else:
-        values = ["other"]
+    for author in author_string.split(" and "):
 
-    for keyword in values:
-        groups[keyword.strip()].append(data)
+        author = clean(author)
 
-with open("publications.qmd", "w") as out:
+        if "," in author:
+            surname, given = [x.strip()
+                              for x in author.split(",", 1)]
+
+            initials = " ".join(
+                f"{p[0]}."
+                for p in given.replace(".", "").split()
+                if p
+            )
+
+            formatted = f"{surname}, {initials}"
+
+            if surname.lower() == "fluke":
+                formatted = f"**{formatted}**"
+
+            authors.append(formatted)
+
+        else:
+            authors.append(author)
+
+    return ", ".join(authors)
+
+
+# ----------------------------------------------------
+# Read bibliography
+# ----------------------------------------------------
+
+with open("publications.bib",  encoding="utf-8") as bibfile:
+    db = bibtexparser.load(bibfile)
+
+entries = db.entries
+
+print(f"Found {len(entries)} entries")
+
+# ----------------------------------------------------
+# Sort newest first
+# ----------------------------------------------------
+
+entries.sort(
+    key=lambda e: int(e.get("year", 0)),
+    reverse=True
+)
+
+# ----------------------------------------------------
+# Generate publications.qmd
+# ----------------------------------------------------
+
+current_year = None
+count = 1
+
+with open("publications.qmd", "w", encoding="utf-8") as out:
 
     out.write("---\n")
     out.write("title: Publications\n")
     out.write("---\n\n")
 
-    out.write("# Publications\n\n")
+    for entry in entries:
 
-    for keyword in sorted(groups):
+        year = entry.get("year", "Unknown")
 
-        out.write(f"## {keyword.title()}\n\n")
+        if year != current_year:
+            out.write(f"\n\n## {year}\n\n")
+            current_year = year
 
-        for paper in sorted(
-            groups[keyword],
-            key=lambda x: x.get("year", "").value if "year" in x else "",
-            reverse=True
-        ):
+        title = clean(entry.get("title", ""))
 
-            author = paper.get("author")
-            title = paper.get("title")
-            journal = paper.get("journal")
-            year = paper.get("year")
+        authors = format_authors(
+            entry.get("author", "")
+        )
 
-            author = author.value if author else ""
-            title = title.value if title else ""
-            journal = journal.value if journal else ""
-            year = year.value if year else ""
+        journal = clean(
+            entry.get("journal")
+            or entry.get("booktitle", "")
+        )
 
+        volume = entry.get("volume")
+        number = entry.get("number")
+        pages  = entry.get("pages")
+
+        out.write(
+            f"\n{count}. **{title}**  \n"
+        )
+
+        if authors:
             out.write(
-                f"- {author} ({year}). "
-                f"*{title}*. {journal}.\n"
+                f"   {authors}  "
             )
 
-        out.write("\n")
+        if journal:
+            out.write(
+                f"   *{journal}*  "
+            )
+
+        if volume:
+            out.write(f"   {volume}  ")
+
+        if number:
+            out.write(f"   {number}  ")
+
+        if pages:
+            out.write(f"   {pages}  ")
+
+        # ----------------------------------------
+        # Links
+        # ----------------------------------------
+
+        links = []
+
+        adsurl = clean(
+            entry.get("adsurl", "")
+        )
+
+        if adsurl:		
+            links.append(
+                f"[ADS]({adsurl})"
+            )
+            #links.append(
+            #    f"{adsurl}"
+            #)
+
+        doi = clean(
+            entry.get("doi", "")
+        )
+
+        if doi:
+
+            if doi.startswith("http"):
+                doi_url = doi
+            else:
+                doi_url = f"https://doi.org/{doi}"
+
+            links.append(
+                f"[DOI]({doi_url})"
+            )
+
+        pdfurl = clean(
+            entry.get("pdf", "")
+        )
+
+        if pdfurl:
+            links.append(
+                f"{pdfurl}"
+            )
+
+        if links:
+            out.write(
+                "   " + " | ".join(links) + "  "
+            )
+
+        out.write("")
+
+        count += 1
+
+print(
+    f"Generated publications.qmd with {count-1} entries."
+)

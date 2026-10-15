@@ -1,0 +1,4 @@
+<sort>
+  <key variable="issued" sort="descending"/>
+  <key variable="author"/>
+</sort>
